@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\TShell\\TShell\\TShell.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\TShell\\src\\TShell.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\TShell\\TShell\\TShell.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\TShell\\src\\TShell.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\TShell\\TShell\\TShell.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\TShell\\src\\TShell.csproj",
         "projectName": "TShell",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\TShell\\TShell\\TShell.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\TShell\\src\\TShell.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\TShell\\TShell\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\TShell\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
