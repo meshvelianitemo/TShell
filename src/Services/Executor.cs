@@ -14,10 +14,11 @@ namespace TShell.Services
             switch (baseCommand.ToLower())
             {
                 case "exit":
+                    context.IsRunning = false;
                     break;
 
                 case "pwd":
-                    break;
+                    return PwdCommand.Main(context);
 
                 case "cd":
                     return CdCommand.Main(result, context);
