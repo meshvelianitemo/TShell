@@ -23,9 +23,11 @@ namespace TShell.Services
                 case "cd":
                     return CdCommand.Main(result, context);
 
+                case "ls":
+                    return LsCommand.Main(context,result);
+
                 default:
-                        //ExecuteExternalCommand(command);
-                    break;
+                    return ExternalCommand.Main(result, context);
                 }
             return baseCommand.ToLower();
         }
